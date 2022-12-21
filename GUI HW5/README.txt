@@ -2,7 +2,8 @@ README Assignment 9:
 Jacob Sullivan
 Jacob_Sullivan@student.uml.edu
 12/20/2022
-
+https://jacobsull.github.io/HW5/GUI%20HW5/index.html
+https://github.com/JacobSull/HW5/tree/main/GUI%20HW5
 
 This assignment implements a simplified version of the game of Scrabble. It uses a single line, where the player has 7 characters to build a word out of and place on the board. The letters are randomly chosen and can run out if the player plays enough. This program utilizes the JQuery Dragging and Dropping to move Scrabble tiles onto the board. It uses an associative array to keep track of all the possible Scrabble pieces.
 
